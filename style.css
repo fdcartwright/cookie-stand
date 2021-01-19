@@ -1,0 +1,40 @@
+/* index.html page */
+div #Salmon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+    width 50%;
+    opacity: 0.8;
+}
+header {
+    width: 100%;
+    background-color: lightblue;
+}
+.headerName {
+    text-align: center;
+    padding-bottom: .5%;
+    margin-top: 3%;
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Lobster', cursive;
+    color: salmon;
+    text-decoration: underline;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(248, 229, 229);
+}
+
+.phase {
+    text-align: center;
+    font-style: italic;
+    color: gray;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 2%;
+    font-size: 20px;
+}
+
+/* sales.html page */
